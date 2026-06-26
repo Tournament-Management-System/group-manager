@@ -8,3 +8,5 @@ node_modules
 cdk.out
 
 src/.env
+__pycache__/
+*.pyc
