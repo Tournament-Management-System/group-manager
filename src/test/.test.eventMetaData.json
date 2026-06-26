@@ -1,0 +1,46 @@
+{
+    "eventId": "testeventId",
+    "awards": [
+        {
+        "awardName": "Finalists",
+        "numWinners": "6",
+        "awardCriteria": "highest_last_round"
+        },
+        {
+        "awardName": "Sweepstake",
+        "numWinners": "6",
+        "awardCriteria": "highest_all_rounds"
+        }
+    ],
+    "currentRoundIdx": "2",
+    "rounds": [
+        {
+        "roundId": "0",
+        "competitorLimit": 6,
+        "groupLimit": null,
+        "judgesPerRound": 1,
+        "judgingCriteria": null
+        },
+        {
+        "roundId": "1",
+        "competitorLimit": 6,
+        "groupLimit": null,
+        "judgesPerRound": 1,
+        "judgingCriteria": null
+        },
+        {
+        "roundId": "2",
+        "competitorLimit": 6,
+        "groupLimit": 3,
+        "judgesPerRound": 3,
+        "judgingCriteria": null
+        },
+        {
+        "roundId": "3",
+        "competitorLimit": 6,
+        "groupLimit": 1,
+        "judgesPerRound": 3,
+        "judgingCriteria": null
+        }
+    ]
+}
